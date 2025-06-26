@@ -1,6 +1,6 @@
 🇫🇷 Bonjour, je suis Sariaka Ramanantseheno ! 👩‍💻
 Développeuse fullstack en formation, passionnée par le web et l'innovation digitale.
-Je me forme activement à travers des projets concrets, où je développe des compétences solides en Angular, Angular Material et Tailwind CSS.
+Je progresse chaque jour en mettant en pratique HTML/CSS, JavaScript, Angular/TypeScript, Tailwind CSS et bien d’autres technologies à travers mes projets.
 
 🚀 Projets récents
 
