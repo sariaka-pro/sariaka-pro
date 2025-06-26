@@ -18,7 +18,7 @@ Je progresse chaque jour en mettant en pratique HTML/CSS, JavaScript, Angular/Ty
   Angular Material : Listes, Tables, Champs de formulaire
   Tailwind CSS : Grilles, Flexbox pour une mise en page responsive
 
-[Démo live]([[https://url-de-ta-demo1.com](https://aesthetic-croissant-7ba1aa.netlify.app/contact-list)](https://superlative-dango-77538f.netlify.app/)) &nbsp;&nbsp; [Code source](https://github.com/sariaka-pro/decodeuses-todo-app)
+[Démo live](https://superlative-dango-77538f.netlify.app/) &nbsp;&nbsp; [Code source](https://github.com/sariaka-pro/decodeuses-todo-app)
 
 ✅ Contact 
   Une application web de recherche dynamique + calculatrice avec les fonctionnalités suivantes :
@@ -33,7 +33,7 @@ Je progresse chaque jour en mettant en pratique HTML/CSS, JavaScript, Angular/Ty
   Angular Material : Listes, Tables, formulaire, Dialog 
   Tailwind CSS : Grid, Flexbox pour une mise en page responsive
 
-[Démo live]([https://url-de-ta-demo1.com](https://aesthetic-croissant-7ba1aa.netlify.app/contact-list)) &nbsp;&nbsp; [Code source]([https://github.com/ton-pseudo/nom-du-projet-1](https://github.com/sariaka-pro/descodeuses-contact-app))
+[Démo live](https://aesthetic-croissant-7ba1aa.netlify.app/contact-list) &nbsp;&nbsp; [Code source](https://github.com/sariaka-pro/descodeuses-contact-app)
 
 ✅ Facture
   Une application web de gestion de factures avec les fonctionnalités suivantes :
